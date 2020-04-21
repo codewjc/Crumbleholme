@@ -26801,21 +26801,19 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {margin: 12px auto 0}
 .u-header .u-logo-image-1 {max-width: 80px; max-height: 80px}
 .u-header .u-search-1 {width: 254px; min-height: 46px; margin: -63px 2px 0 auto}
-.u-header .u-menu-1 {margin: -41px auto 34px 0}
-.u-header .u-nav-1 {font-size: 1rem}
-.u-header .u-nav-2 {font-size: 1rem} 
+.u-header .u-text-1 {margin: -27px auto 0 37px}
+.u-header .u-text-2 {margin: -23px auto 60px 112px} 
 @media (max-width: 1199px){ .u-header .u-image-1 {width: 66px; height: 40px}
 .u-header .u-search-1 {width: 210px; height: auto; margin-top: -42px}
-.u-header .u-menu-1 {width: 91px} }
+.u-header .u-text-1 {margin-left: 0}
+.u-header .u-text-2 {margin-left: 0} }
 @media (max-width: 991px){ .u-header .u-image-1 {width: 51px}
 .u-header .u-search-1 {width: 161px} }
 @media (max-width: 767px){ .u-header .u-image-1 {width: 47px}
-.u-header .u-search-1 {width: 196px}
-.u-header .u-menu-1 {width: 24px} }
+.u-header .u-search-1 {width: 196px} }
 @media (max-width: 575px){ .u-header .u-sheet-1 {min-height: 169px}
 .u-header .u-image-1 {margin-top: 29px}
-.u-header .u-search-1 {margin-top: 30px; margin-right: initial; margin-left: initial; width: auto}
-.u-header .u-menu-1 {margin-top: -111px; margin-bottom: 59px} }
+.u-header .u-search-1 {margin-top: 30px; margin-right: initial; margin-left: initial; width: auto} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 120px}
 .u-footer .u-text-1 {width: 417px; margin: 49px auto} 
